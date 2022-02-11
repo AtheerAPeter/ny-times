@@ -10,7 +10,7 @@ if (__DEV__) {
 
 Reactotron.setAsyncStorageHandler(AsyncStorage)
   .configure({
-    name: 'Club Feast User App',
+    name: 'Ny Times App',
     host: scriptHostname,
   })
   .useReactNative({
